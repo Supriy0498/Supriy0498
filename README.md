@@ -13,10 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/supriy12bosss" target="blank"><span style="font-size: 48px; color: Dodgerblue;">
-  <i class="fas fa-twitter"></i>
-</span></a>
-<a href="https://linkedin.com/in/supriy-jinturkar-9995a31b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="supriy-jinturkar-9995a31b0" height="30" width="40" /></a>
+<a href="https://twitter.com/supriy12bosss" target="blank"> <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="supriy-jinturkar-twitter" height="30" width="40" /> </a>
+<a href="https://linkedin.com/in/supriy-jinturkar-9995a31b0" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="supriy-jinturkar-9995a31b0" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sj_0498" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sj_0498" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sj_codebreaker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sj_codebreaker" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sj_0498" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sj_0498" height="30" width="40" /></a>
