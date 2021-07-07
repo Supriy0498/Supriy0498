@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriy0498&label=Profile%20views&color=0e75b6&style=flat" alt="supriy0498" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Supriy0498](https://github.com/Supriy0498)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **React.js**, **Android**
 
 - 📫 How to reach me **supriyjinturkar@gmail.com**
 
